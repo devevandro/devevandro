@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- DevOps<br>- Cloud Manager<br>- DevOps/Cloud Analist at @StartSe<br>- Electron</p>
+<p align="left">- DevOps<br>- Cloud Manager<br>- Electron<br>- DevOps/Cloud Analist at @StartSe</p>
 
 ###
 

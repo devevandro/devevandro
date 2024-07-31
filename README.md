@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- DevOps<br>- Cloud Manager<br>- DevOps/Cloud Analist at @StartSe<br>- Electron Enthusiast<br>- Studying for AWS Certified Cloud Practitioner</p>
+<p align="left">- DevOps<br>- Cloud Manager<br>- DevOps/Cloud Analist at @StartSe<br>- Electron</p>
 
 ###
 
